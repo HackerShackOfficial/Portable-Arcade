@@ -1,7 +1,17 @@
 # Portable-Arcade
 
-Retropie Setup: https://github.com/RetroPie/RetroPie-Setup
+## Useful Links
+[Retropie Setup](https://github.com/RetroPie/RetroPie-Setup)
 
-Retrogame: https://github.com/adafruit/Adafruit-Retrogame
+[Retrogame](https://github.com/adafruit/Adafruit-Retrogame)
 
-*TODO: Diagrams and Modified Code*
+[Modified retrogame.c](https://github.com/HackerHouseYT/Portable-Arcade/blob/master/retrogame.c)
+
+## Diagrams
+Joystick Pinout:
+
+![Joystick](https://github.com/HackerHouseYT/Portable-Arcade/blob/master/diagrams/gaming_joy-pins2.png)
+
+GPIO Mapping:
+
+![GPIO](https://github.com/HackerHouseYT/Portable-Arcade/blob/master/diagrams/Pinout.png)
